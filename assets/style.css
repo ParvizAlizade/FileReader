@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-image: url("./1121285-simple-background-abstract-minimalism-text-simple-triangle-geometry-circle-brand-primary-colors-shape-design-floor-line-wing-font-document.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.images .image {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+/*# sourceMappingURL=style.css.map */
